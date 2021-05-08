@@ -33,14 +33,14 @@ The strategy is as follows:
 
 ![btw85t2bcPO7dl3z7svH7mMGGLnPogZ8y+7dm4Lfv2Yee27NuHnduybx92Xj+Tn7BJkiRJ0rqa6rb+kiRJkrT2nLBJkiRJ0kQ5YZMkSZKkiXLCJkmSJEkT5YRNkiRJkibqHwYGgJLk2AtvAAAAAElFTkSuQmCC](https://user-images.githubusercontent.com/78809297/117533190-143d4800-b01e-11eb-981a-38913def2004.png)
 
-Back-testing target: CSI 300
-Backtest period: 20170125—20210508
-Strategy annual win rate: 60.0%
-Strategy monthly win rate: 63.83%
-Strategy Weekly Win Rate: 61.04%
-Total return: Strategy: 97.66%, CSI 300: 48.5%
-Annualized rate of return: Strategy: 18.41%, CSI 300: 10.3%
-Maximum drawdown: Strategy: 17.29%, CSI 300: 32.46%
-Strategy Alpha: 0.13, Beta: 0.48, Sharpe Ratio: 2.16
+Back-testing target: CSI 300  
+Backtest period: 20170125—20210508  
+Strategy annual win rate: 60.0%  
+Strategy monthly win rate: 63.83%  
+Strategy Weekly Win Rate: 61.04%  
+Total return: Strategy: 97.66%, CSI 300: 48.5%  
+Annualized rate of return: Strategy: 18.41%, CSI 300: 10.3%  
+Maximum drawdown: Strategy: 17.29%, CSI 300: 32.46%  
+Strategy Alpha: 0.13, Beta: 0.48, Sharpe Ratio: 2.16  
 
 
